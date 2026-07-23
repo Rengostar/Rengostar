@@ -15,9 +15,22 @@
 
 
 
-✔ I am a student of Industrial Civil Engineering at the University of Chile <br>
-✔ I am currently studying the Master of Data Science and working as a freelance for projects of a mining supplies transport company and for an energy management company <br>
-✔ I am also doing an internship in the business intelligence area of Falabella Retail Chile
+Hi there! 👋
+
+I'm Stefano Pinto, an Industrial Civil Engineer from the University of Chile and a Master of Data Science graduate.
+
+I'm interested in Machine Learning, Deep Learning, Data Science, Business Intelligence, and building practical solutions through data and software.
+
+What you'll find here
+🚀 Personal projects in Data Science and AI.
+🤖 Machine Learning and Deep Learning experiments.
+📊 Data analysis and visualization projects.
+🧠 Implementations of algorithms and learning exercises.
+🛠️ Reusable code templates and utilities for my own development workflow.
+📚 Notes and examples exploring different tools, libraries, and techniques.
+
+I'm using GitHub as a place to document my learning, showcase personal projects, and build a collection of reusable code over time.
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## 📊 My Github Stats 
 <p align="center" style="margin-right:0px;padding-right:0px">
